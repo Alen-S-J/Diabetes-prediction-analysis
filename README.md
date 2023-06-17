@@ -35,7 +35,7 @@ To use this repository, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/diabetes-detection.git
+git clone https://github.com/GithubSemp-AI/diabetes-detection.git
 ```
 
 2. Install the required dependencies as mentioned in the "Requirements" section.
